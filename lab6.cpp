@@ -2,7 +2,7 @@
 Author: Kusuma Murthy
 KUID: 3095756
 Date Created: 10/20/2023
-Lab: Lab 5, Program 1
+Lab: Lab 6
 Last modified: 10/22/2023
 Purpose: To write a program that performs matrix operations
 */
